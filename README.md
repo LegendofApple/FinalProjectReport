@@ -12,3 +12,4 @@ quality and the discriminator’s classification accuracy. Our results demonstra
 the GAN’s ability to generate realistic images that closely resemble the original
 dataset, highlighting its potential for various applications in the computer vision
 domain.
+
